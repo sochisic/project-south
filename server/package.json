@@ -1,0 +1,13 @@
+{
+  "name": "server-project-south",
+  "version": "1.0.0",
+  "description": "",
+  "author": "sdagaev@alfabank.ru",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
